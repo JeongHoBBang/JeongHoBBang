@@ -5,9 +5,7 @@
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 <div align=center>
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongHoBBang&show_icons=true&theme=radical) 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoBBang&layout=compact&theme=dracula)](https://github.com/metleeha)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JeongHoBBang&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoBBang&layout=compact&theme=dracula)](https://github.com/metleeha)
  
 <hr>
  
