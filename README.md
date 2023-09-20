@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/badge/JPA-212121?style=for-the-badge&logo=jpa&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mybatis-DD344C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Querydsl-0285C9?style=for-the-badge&logo=querydsl&logoColor=white"/>
+
 ● Other :
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     <div style="text-align: left;">
@@ -23,11 +24,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongHoBBang&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div>
     </div>
-<h2 style="border-bottom: 1px solid #D8DEE4; color: #282D33;"> :기술자: Contact me </h2> <br>
-| Plugin | README |
-| ------ | ------ |
-| Velog | https://velog.io/@gbz3267 |
-| GitHub | https://github.com/JeongHoBBang |
+
 </div>
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongHoBBang&count_bg=%239AE065&title_bg=%23373737&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
