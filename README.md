@@ -21,8 +21,8 @@
 ● Other :
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-HyoungJoo&show_icons=true)
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shin-HyoungJoo&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHOBBANG&show_icons=true)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHOBBANG&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
            /> </div> 
     </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
